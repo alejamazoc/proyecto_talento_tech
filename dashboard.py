@@ -103,4 +103,4 @@ st.sidebar.success("🎉 Configuración completa")
 
 # 11. Ejecución del Script
 if _name_ == "_main_":
-    st.sidebar.info("Ejecuta este script con: streamlit run talento-roadmap-app.py"
+    st.sidebar.info("Ejecuta este script con: streamlit run talento-roadmap-app.py")
