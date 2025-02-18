@@ -1,1 +1,9 @@
-
+streamlit
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+plotly
+datetime
+vega_datasets
